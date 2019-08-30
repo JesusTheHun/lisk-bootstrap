@@ -1,6 +1,6 @@
-# Lisk Docker Compose
+# Lisk Bootstrap
 
-A simple straight forward Docker Compose setup for developing a Lisk Blockchain.
+A simple straight forward setup for developing a Lisk Blockchain.
 
 ### Get started
 
